@@ -1,11 +1,11 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "ChatConnect",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "Explore",
       "href": "product"
     },
     {
@@ -22,34 +22,34 @@
     }
   ],
   "callToAction": {
-    "text": "Get started",
+    "text": "Start Chatting",
     "href": "#"
   },
   "mainHero": {
-    "title": "Make New Friends",
-    "subtitle": "With a Day of Fun",
-    "description": "Making friends as an adult shouldn't be hard. We make it easy. No pressure, no awkwardness.",
-    "img": "/assets/images/friend_sofa.png",
+    "title": "Every Interests in One Place",
+    "subtitle": "Find Your Community",
+    "description": "Chat rooms with interests, location, topics, and more. the easiest way to chat with people who love what you do.",
+    "img": "/assets/images/chat_app.png",
     "primaryAction": {
-      "text": "Download App In Store",
+      "text": "Download App",
       "href": "#"
     },
     "secondaryAction": {
-      "text": "Download App In Store",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Learn More",
+      "href": "#"
     }
   },
   "product": {
     "sections": [
       {
-        "title": "Skip the small-talk",
-        "description": "No small-talk or awkward coffee meetups. We match you with people who share your passions. Begin the spark of your friendship with memorable experiences.",
-        "img": "/assets/images/friend_coaster.png",
+        "title": "It's a Chat Room",
+        "description": "Create chat rooms about anything you want—your hobbies, favorite topics, or local meetups. An open space where anyone with shared interests can connect and chat.",
+        "img": "/assets/images/openchat.png",
         "imagePosition": "left"
       },
       {
-        "title": "Set Your Ideal Friend",
-        "description": "Tell us your ideal friend—age, gender, hobbies, even cultures. we'll make it happen. No more hoping to bump into the right people. Just pick your preferences and let us connect you with who you're looking for.",
+        "title": "Find Your People",
+        "description": "Browse through diverse chat rooms, from local meetups to global discussions. Connect with people who share your interests, whether it's gaming, cooking, or just making new friends.",
         "images": [
           "/assets/images/friend_park.png",
           "/assets/images/friend_activity.png",
@@ -60,100 +60,101 @@
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Why Choose ChatConnect",
+    "subtitle": "Everything you need to connect",
+    "description": "Our platform makes it easy to discover and join chat rooms that match your interests. Whether you're looking to make local friends or discuss your favorite topics with people worldwide.",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "name": "Open Rooms",
+        "description": "Create or join chat rooms instantly. Share your interests and connect with others who share your passions.",
         "icon": "/assets/images/react.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "name": "Location Based",
+        "description": "Find chat rooms near you or create ones for your local community.",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "name": "Interest Groups",
+        "description": "Discover rooms based on your hobbies, interests, or topics you want to discuss.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "name": "Safe & Secure",
+        "description": "Community-driven moderation and privacy settings to ensure a comfortable chatting environment.",
         "icon": "/assets/images/ts.png"
       }
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "Simple Pricing",
     "items": [
       {
         "name": "Free",
         "price": "$0",
-        "priceDetails": "for one user",
+        "priceDetails": "forever",
         "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
+          "Create up to 3 chat rooms",
+          "Join unlimited rooms",
+          "Basic moderation tools",
+          "Community support"
         ]
       },
       {
         "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
-
+        "price": "$9.99",
+        "priceDetails": "per month",
         "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
+          "Unlimited chat rooms",
+          "Advanced moderation tools",
+          "Custom room themes",
+          "Priority support",
+          "Analytics dashboard"
         ]
       },
       {
-        "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
+        "name": "Community",
+        "price": "$24.99",
+        "priceDetails": "per month",
         "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
+          "Everything in Pro",
+          "Custom branding",
+          "API access",
+          "Dedicated support",
+          "Advanced analytics"
         ]
       }
     ]
   },
   "about": {
     "meetUs": {
-      "text": "Meet Us Now",
+      "text": "Join Our Community",
       "href": "#"
     },
     "downloadApp": {
-      "text": "Download App In Store",
+      "text": "Download Now",
       "href": "#"
     },
     "sections": [
       {
-        "name": "Something",
+        "name": "Our Mission",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "We believe everyone deserves a place to connect and belong. ChatConnect makes it easy to find your community, whether it's around the corner or across the globe."
       },
       {
-        "name": "Something",
+        "name": "How It Works",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "Create or join chat rooms based on your interests. Connect with people who share your passions, discuss topics you love, and build meaningful relationships."
       },
       {
-        "name": "Something",
+        "name": "Community Guidelines",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "We maintain a safe and welcoming environment for all users. Our community guidelines ensure everyone can enjoy meaningful conversations."
       },
       {
-        "name": "Something",
+        "name": "Get Started",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "Download the app, create your profile, and start connecting with people who share your interests. Your community is waiting."
       }
     ],
     "socialMedia": {

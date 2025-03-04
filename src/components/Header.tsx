@@ -24,7 +24,7 @@ const Menu = () => {
                 href="#"
                 className="text-2xl sm:text-3xl font-extrabold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent tracking-tight"
               >
-                Meet<span className="font-light">New</span>Friends
+                Open<span className="font-light">Chat</span>
               </a>
             </div>
           </div>
